@@ -1,0 +1,33 @@
+h1 {
+  font-family:Delius; 
+  font-size: 100px;
+}
+h2 {
+  font-family:Bad Script;
+  font-size: 60px;
+  line-height: 50%;
+}
+h3 {
+  font-family: Poiret One;
+  font-size: 45px;
+  line-height: 10%;
+}
+p1{
+  font-family: Annie Use Your Telescope;
+  font-size:30px;
+  line-height: 90%;
+}
+body{
+background: linear-gradient(to right, PaleGreen, Aqua)
+}
+
+h4 {
+ font-family: Poiret One;
+  font-size: 45px;
+  line-height: 10%;
+}
+p2{
+    font-family: Annie Use Your Telescope;
+  font-size:30px;
+  line-height: 90%;
+}
